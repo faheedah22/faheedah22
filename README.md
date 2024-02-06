@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @faheedah22
-- 👀 I’m interested in Java, Javascript, HTML & CSS, Python, and C#
+- 👀 I’m interested in React, Javascript, HTML & CSS, Python, and C#
 - I have worked with Java, Python, and .NET in school.
 - 🌱 I’m currently working on Javascript, HTML & CSS, and C#
 - 💞️ I’m looking to collaborate on minor projects
