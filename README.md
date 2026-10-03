@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @faheedah22
 - 👀 I’m interested in full-stack engineering and cybersecurity.
-- I have worked with Java, Python, and .NET in school.
-- 🌱 I’m currently working on Javascript, HTML & CSS, and C#
+- I have worked with Java, Python, JavaScript, HTML & CSS, and C# and .NET in school.
+- 🌱 I’m currently working on enhancing my coding skills!
 - 💞️ I’m looking to collaborate on minor projects
 - 📫 How to reach me via email jummyd35@gmail.com
 
